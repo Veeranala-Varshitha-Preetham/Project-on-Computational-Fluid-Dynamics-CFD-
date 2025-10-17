@@ -19,6 +19,15 @@ The Advection–Diffusion Equation is represented as:
 \frac{\partial c}{\partial t} + u \frac{\partial c}{\partial x} = D \frac{\partial^2 c}{\partial x^2}
 \]
 
+where:
+
+| Symbol | Description |
+|:--------|:-------------|
+| \( c \) | Concentration of the transported quantity |
+| \( u \) | Velocity of the flow (m/s) |
+| \( D \) | Diffusion coefficient (m²/s) |
+| \( t \) | Time (s) |
+| \( x \) | Distance (m) |
 where:  
 - \( c \) → Concentration of the transported quantity  
 - \( u \) → Velocity (m/s)  
